@@ -5,7 +5,7 @@
       <NuxtLink to="/">Home page</NuxtLink>
       <NuxtLink to="/about">About</NuxtLink>
       <h1>Counter: {{$store.state.counter}}</h1>
-    </section>
+    </section>xz
   </main>
 </template>
 
